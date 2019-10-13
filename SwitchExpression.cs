@@ -33,7 +33,7 @@ namespace CSharp8.Features
     {
         public class Address
         {
-            public string State { get; } = "WA";
+            public string? State { get; }
         }
 
         public static decimal ComputeSalesTax(Address location, decimal salePrice) =>

@@ -16,6 +16,7 @@
       <e p="CSharp8.Features.csproj" t="IncludeRecursive" />
       <e p="CSharp8.sln" t="IncludeFlat" />
       <e p="DefaultInterfaceMethods.cs" t="Include" />
+      <e p="NullableReferenceTypes.cs" t="Include" />
       <e p="obj" t="ExcludeRecursive">
         <e p="Debug" t="Include">
           <e p="netcoreapp3.0" t="Include">
