@@ -25,7 +25,9 @@
       </e>
       <e p="packages" t="ExcludeRecursive" />
       <e p="ReadOnlyMembers.cs" t="Include" />
+      <e p="StaticLocalFunctions.cs" t="Include" />
       <e p="SwitchExpression.cs" t="Include" />
+      <e p="UsingDeclaration.cs" t="Include" />
     </e>
   </component>
 </project>
